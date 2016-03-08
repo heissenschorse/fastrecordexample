@@ -27,4 +27,4 @@ FORMS    += *.ui
 
 ###################################
 
-RESOURCES += ../include/resources.qrc
+#RESOURCES += ../include/resources.qrc
